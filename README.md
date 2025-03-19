@@ -2,7 +2,10 @@
 Este mi solución al challenge del amigo secreto
 
 <h1>¿Cómo jugar?</h1>
-1. Introduce los nombres de tus amigos que van a ser sorteados.
-![image](https://github.com/user-attachments/assets/e3e4c594-e245-405e-b5fb-e3148d4a0f04)
+1. Introduce los nombres de tus amigos que van a ser sorteados, luego pulsa añadir por cada nombre.
 
-2
+![Captura de pantalla 2025-03-19 000120](https://github.com/user-attachments/assets/fa07273f-064a-473c-9e23-5e203666c0da)
+
+2. Pulsa añadir para agregar los nombres de tus amigos a la lista
+
+3. Una vez comple
