@@ -2,7 +2,7 @@
 Este mi solución al challenge del amigo secreto, un agradecimiento especial al equipo Oracle Next Educatiom y a Alura Latam por este challenge y por proveer el index.html, style.css y los assets.
 
 <h1>Instalación</h1>
-Para instalarlo, puedes descargar el código fuente. Una vez descargado, ejecuta el index.html, solo necesitas de un navegador basado en Chromium o Mozilla Firefox. Si quieres editar algo del código, es recomendable que usitilices VS Code o tu editor de código preferido
+Para instalarlo, puedes descargar el código fuente. Una vez descargado, ejecuta el index.html, solo necesitas de un navegador basado en Chromium o Mozilla Firefox. Si quieres editar algo del código, es recomendable que usitilices VS Code o tu editor de código preferido.
 
 <h1>¿Cómo jugar?</h1>
 1. Introduce el nombre de uno de tus amigos que van a ser sorteados.
