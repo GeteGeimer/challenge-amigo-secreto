@@ -8,7 +8,7 @@ Este mi solución al challenge del amigo secreto
 
 2. Pulsa añadir para agregar los nombres de tus amigos a la lista
 
-![Captura de pantalla 2025-03-19 000120](https://github.com/user-attachments/assets/484a510d-6bdd-43fa-94d1-a63aff1255e4)
+![wob](https://github.com/user-attachments/assets/0d039fb0-4178-4b59-9c0a-e991b4dbe783)
 
 3. Una vez completada la lista, pulsa en Sortear amigo
 
