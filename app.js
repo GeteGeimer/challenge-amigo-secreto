@@ -20,7 +20,7 @@ function agregarAmigo() {
     MostrarNombreEnLista();
     //Muestra el nombre válido en la lista
         }
-    //limpiarCampo()
+    limpiarCampo()
     //Limpia el campo después de añadir el nombre del amigo
     return;
 }
