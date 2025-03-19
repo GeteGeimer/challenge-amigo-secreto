@@ -12,3 +12,10 @@ Este mi solución al challenge del amigo secreto
 
 3. Una vez completada la lista, pulsa en Sortear amigo
 
+![wob](https://github.com/user-attachments/assets/c340a77a-3398-4a70-8d4b-0bb737500ac1)
+
+4. Obtienes el nombre del amigo sorteado.
+
+![wob](https://github.com/user-attachments/assets/325edddd-d5c6-4b96-9ae5-bc6ffe6ccaae)
+
+Eso es todo, disfrútalo
