@@ -42,6 +42,7 @@ function MostrarNombreEnLista() {
       let listaDelHTML = document.createElement("li");
       listaDelHTML.textContent = element;
       listaDeAmigos.appendChild(listaDelHTML);
+    //Uso del "for" para hacer un bucle para recorrer el array de amigos
     }
   }
 
